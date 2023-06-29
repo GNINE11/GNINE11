@@ -1,10 +1,11 @@
-### Olá!
+### Olá! Me chamo Gabriel e no momento sou estudante da UFLA
 
 
 - 🔭 No momento, estou no curso de bacharelado de Ciência da Computação na UFLA
 - 🌱 Estudando C++, HTML, CSS e PHP
 - 📫 Contate-me no e-mail: gabriel.souza16@estudante.ufla.br
 - 😄 Pronouns: ele/dele
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
