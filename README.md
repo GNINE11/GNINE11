@@ -2,7 +2,7 @@
 
 
 - 🔭 No momento, estou no curso de bacharelado de Ciência da Computação na UFLA
-- 🎓 Técnico integrado ao Ensino Médio de Informática pelo IFNMG - Campus Teófilo Otoni
+- 🎓 Técnico Integrado ao Ensino Médio de Informática pelo IFNMG - Campus Teófilo Otoni
 - 🌱 Estudando C++, HTML, CSS e PHP
 - 📫 Contate-me no e-mail: gabriel.souza16@estudante.ufla.br
 - 😆 Pronouns: ele/dele
