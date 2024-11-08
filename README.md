@@ -3,7 +3,7 @@
 
 - 🔭 No momento, estou no curso de bacharelado de Ciência da Computação na UFLA
 - 🎓 Técnico Integrado ao Ensino Médio de Informática pelo IFNMG - Campus Teófilo Otoni
-- 🌱 Estudando C++, HTML, CSS e PHP
+- 🌱 Estudando C++, JAVA, HTML, CSS e JAVASCRIPT
 - 📫 Contate-me no e-mail: gabriel.souza16@estudante.ufla.br
 
 
